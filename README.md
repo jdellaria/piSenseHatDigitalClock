@@ -10,7 +10,7 @@ If you want to mess around with your Sense HAT clock, I recommend looking over t
 CHANGE THE PI CLOCK’S COLORS
 The colors are controlled by the following section of code.
 
-# Blue
+#Blue
 hour_color = [0,0,255]
 # Yellow
 minute_color = [248,226,55]
@@ -20,4 +20,5 @@ empty = [0,0,0]
 
 # Some RGB examples:
 255,0,0 would be bright red
+
 100,100,100 would be a medium shade of grey
